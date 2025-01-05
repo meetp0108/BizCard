@@ -239,7 +239,7 @@ fun Info() {
     }
 }
 
-//@Preview(showBackground = true)
+
 @Composable
 fun GreetingPreview() {
     JetBizCardThemeTheme {
